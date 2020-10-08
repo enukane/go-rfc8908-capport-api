@@ -1,0 +1,14 @@
+{
+    "userdb": "userdb.json",
+    "user-portal-url": "https://localhost/user-portal/",
+    "venue-info-url": "https://localhost/venue-info/",
+    "can-extend-session": false,
+    
+    "default-seconds": 3600,
+    "default-bytes": 1000000000,
+
+    "users": [
+        {"username": "hoge", "password": "fuga"},
+        {"username": "piyo", "password": "tata"}
+    ]
+}
